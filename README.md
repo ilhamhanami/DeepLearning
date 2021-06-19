@@ -15,8 +15,6 @@ berikut penjelasan file nya :
     * nama source code = ML Underfitting & Overfitting.ipynb
 6. Video Hands on "Loss Function & Early Stop"
     * nama source code = Machine Learning - Deep Learning(Loss Function).ipynb
-7. Video Hands on "FeedForward-backforward Propagation"
-    * nama source code = Machine Learning - Deep Neural Network (Forward-Backward)
-8. Video Hands on "Deep Learning - Heart Disease"
+7. Video Hands on "Deep Learning - Heart Disease"
     * nama source code = Deep Learning - Heart disease.ipynb
     * dataset = heartdisease.csv
