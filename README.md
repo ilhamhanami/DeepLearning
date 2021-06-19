@@ -8,7 +8,7 @@ berikut penjelasan file nya :
 2. Video Hands on "Batch size"
     * nama source code = Batch_size.ipnyb
 3. Video Hands on "activation function"
-    * nama source code = activation_function.ipnyb
+    * nama source code = Activation_function.ipnyb
 4. Video Hands on "FeedForward-backforward Propagation"
     * nama source code = Machine Learning - Deep Neural Network (Forward-Backward).ipynb
 5. Video Hands on "Machine Learning underfitting & overfitting"
